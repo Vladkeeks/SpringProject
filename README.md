@@ -51,4 +51,5 @@
 * **GET /operating_systems/{os_id}** (Buscar sistem operacional por ID) – отримуйте деталі конкретної операційної системи за її ідентифікатором.
 * **POST /operating_systems** (Criar sistema operacional) – потенційно дозволено, якщо система підтримує керування новими операційними системами (враховуйте наслідки для безпеки).
 * **PUT /operating_systems/{os_id}** (Atualizar sistema operacional) – потенційно дозволено, якщо система підтримує модифікацію існуючих операційних систем (враховуйте наслідки для безпеки).
-* **DELETE /operating_systems/{os_id}** (Deletar sistema operacional) – потенційно дозволено, якщо система підтримує видалення операційних систем (зверніть увагу на безпеку
+* **DELETE /operating_systems/{os_id}** (Deletar sistema operacional) – потенційно дозволено, якщо система підтримує видалення операційних систем
+
